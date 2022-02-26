@@ -22,3 +22,10 @@ I learnt Java in Open University of Israel. Those projects that you can see here
    
    ![Hnet com-image (1)](https://user-images.githubusercontent.com/64331443/155857668-97631242-a099-44e6-8125-c24aa664cad0.jpg)
 
+3. Server and Client:
+   Clients has canvas to draw rectangles on. The clients connect to the server and send the rectangle that has been drawed, and the server draw the rectangle on it's own canvas.
+   If the clients clear the canvas, it doesnt send that to the server. Only the server can clear its own canvas.
+   
+   ![Hnet com-image (2)](https://user-images.githubusercontent.com/64331443/155857821-dba30b8f-7918-4a07-a164-9c87024eaca3.jpg)
+
+   
