@@ -20,7 +20,7 @@ In the beginning of the program you will see an empty matrix. However, each cell
    As normal phonebook application, we are able to save phonebook, remove contacts, load phonebook.
    Load and save phonebook was done using Serialize. we can search phones by names or phones.
    Its possible to update contacts and also add contacts.
-   
+   This assignment helped me to understand how to implement Interfaces and also how to use Generics Classes.
    ![Hnet com-image (1)](https://user-images.githubusercontent.com/64331443/155857668-97631242-a099-44e6-8125-c24aa664cad0.jpg)
 
 3. Server and Client:
