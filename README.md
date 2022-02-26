@@ -1,6 +1,6 @@
 # JavaProjects
 
-I learnt Java in Open University of Israel. The following projects below were my assignments in the course.
+I learnt Java in Open University of Israel. The following projects below were my assignments in this course.
 
 
 1. Conway's lifecycle:
