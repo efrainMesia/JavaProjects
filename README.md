@@ -17,8 +17,8 @@ In the beginning of the program you will see an empty matrix. However, each cell
 
 
 2. PhoneBook:
-   PhoneBook: The next assignment introduced me to the application of Serialize, by using the example of phonebooks. We all have access to phonebooks on our smart gadgets. Which enables us to view, add and remove our phone contacts. Furthermore, it is possible to update contact information. I gained further knowledge from this assignment as I understood the importance of implementing 
-Interfaces and also how to use Generics Classes.
+   PhoneBook: The next assignment introduced me to the application of Serialize, by using the example of phonebooks. We all have access to phonebooks on our smart gadgets. Which enables us to view, add and remove our phone contacts. Furthermore, it is possible to update contact information. I gained further knowledge from this assignment as I understood the importance of implementing Interfaces and also how to use Generics Classes.
+
    ![Hnet com-image (1)](https://user-images.githubusercontent.com/64331443/155857668-97631242-a099-44e6-8125-c24aa664cad0.jpg)
 
 3. Server and Client:
