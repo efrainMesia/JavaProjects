@@ -12,8 +12,9 @@ I learnt Java in Open University of Israel. The following projects below were my
         Creation - On each empty cell there is exactly 3 filled cells, so in the next generation will create a new organism (filled cell)
         Death - Each filled cell which has 0 or 1 filled neighbor, will convert to empty. also each filled cell that has more than 4 filled cell will convert to empty.
         Existency - Each filled cell that has 2 or 3 filled neighbors will continue be filled.
-        
-   ![Hnet com-image](https://user-images.githubusercontent.com/64331443/155857071-da777b2e-1437-4fcf-bfe3-67954041e144.jpg)
+       
+   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64331443/155858293-7d75d5cc-ef32-470f-821c-ca43abc4acad.gif)
+
 
 2. PhoneBook:
    As normal phonebook application, we are able to save phonebook, remove contacts, load phonebook.
