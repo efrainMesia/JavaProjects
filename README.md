@@ -1,11 +1,11 @@
 # JavaProjects
 
-I learnt Java in Open University of Israel. The following projects below were my assignments in this course.
+I learnt Java in Open University of Israel. The following projects below displays my assignments during this course.
 
 
-1. Conway's lifecycle:
-   I applied Conway's research of organisms lifecycle.
-   As the program starts we have an empty matrix which each cell represent an organism. when next generation is press the program will set a random matrix containing organisms. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+1. Conway's lifecycle - 
+   I applied Conway's research of organisms lifecycle for my first assignment. This helped further my understanding of Graphic User Interface (GUI).
+In the beginning of the program you will see an empty matrix. However, each cells will eventually represent an organism. Once the next generation button is pressed the program will then set a random matrix containing organisms. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
    
    There is three ways that an organism develops:
    
