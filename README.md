@@ -4,8 +4,8 @@ I learnt Java in Open University of Israel. The following projects below were my
 
 
 1. Conway's lifecycle:
-   I did a simulation of Conway's research of organisms lifecicle.
-   As the program starts we have an empty matrix which each cell its an organism. when we start pressing next generation, the program will set randomly the matrix with organisms. if the cell is filled then there is an organism else there isnt an organism. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+   I applied Conway's research of organisms lifecycle.
+   As the program starts we have an empty matrix which each cell represent an organism. when next generation is press the program will set a random matrix containing organisms. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
    
    There is three ways that an organism develops:
    
