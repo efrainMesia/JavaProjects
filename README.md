@@ -13,7 +13,7 @@ I learnt Java in Open University of Israel. The following projects below were my
         Death - Each filled cell which has 0 or 1 filled neighbor, will convert to empty. also each filled cell that has more than 4 filled cell will convert to empty.
         Existency - Each filled cell that has 2 or 3 filled neighbors will continue be filled.
        
-   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64331443/155858293-7d75d5cc-ef32-470f-821c-ca43abc4acad.gif)
+   ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/64331443/155858485-91623303-f81b-417e-b04b-8821f564108f.gif)
 
 
 2. PhoneBook:
